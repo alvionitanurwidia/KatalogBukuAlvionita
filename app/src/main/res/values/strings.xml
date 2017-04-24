@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KatalogBuku_Alvionita</string>
+    <string name="title_activity_book_form">BookFormActivity</string>
+</resources>
